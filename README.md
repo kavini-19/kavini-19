@@ -126,9 +126,30 @@ Performed data analysis on structured datasets to identify patterns and summariz
 
 <br>
 
-## Contact Channels
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=3"/>
+
+</div>
+
+<br>
+
+## System Status
+
+\`\`\`text
+AVAILABILITY .......... OPEN
+RESPONSE TIME .......... < 24 HRS
+LOCATION ............... CHENNAI, INDIA
+NEXT DEPLOY ............ CAMPUS PLACEMENTS 2027
+\`\`\`
+
+<br>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Let's+build+something+great+together;Open+to+internships+%26+full-time+roles;Reach+out+%E2%80%94+I+reply+fast"/>
+
+<br><br>
 
 <a href="mailto:kavinirajmohan@gmail.com">
 <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
@@ -144,4 +165,4 @@ Performed data analysis on structured datasets to identify patterns and summariz
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=60&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=150&section=footer&text=Thanks%20for%20Visiting&fontSize=26&fontAlignY=75&fontColor=38BDF8"/>
