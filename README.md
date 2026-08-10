@@ -1,50 +1,103 @@
 <div align="center">
 
-# 👋 Hi, I'm **R. Kavini**
+# 👋 Hey, I'm **R. Kavini**
 
-### `Java Backend Developer` · `Full-Stack Developer` · `CSE Student`
+### `Java Backend Developer` • `Full-Stack Developer` • `CSE Student`
 
-**Building → Learning → Solving → Deploying**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+Developer;Building+Real-World+Applications;Learning+DSA+%26+AI;Always+Learning.+Always+Building." alt="Typing SVG" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-kavini--19-181717?style=for-the-badge\&logo=github)](https://github.com/kavini-19)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-R.%20Kavini-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/r-kavini-b685a7374)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail)](mailto:kavinirajmohan@gmail.com)
+<br>
+
+<a href="https://github.com/kavini-19">
+<img src="https://img.shields.io/badge/GitHub-kavini--19-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://linkedin.com/in/r-kavini-b685a7374">
+<img src="https://img.shields.io/badge/LinkedIn-Kavini-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:kavinirajmohan@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
+</a>
 
 </div>
 
 ---
 
-## 🧭 Overview
+## 🧭 Developer Journey
 
-|                   |                                                               |
-| ----------------- | ------------------------------------------------------------- |
-| **Role**          | Java / Spring Boot Backend Developer                          |
-| **Education**     | B.E. Computer Science Engineering · V S B Engineering College |
-| **Duration**      | 2023 – 2027                                                   |
-| **Current Focus** | DSA in Java · Aptitude · Reasoning · GD / JAM                 |
-| **Target**        | Software Engineer — Product / Service Companies               |
-
-I build backend systems with **Java and Spring Boot**, with experience across **MySQL, REST APIs, Java and Python ecosystems**. My projects focus on solving practical problems through full-stack applications.
+```text
+       🎓 2023
+          │
+          ▼
+   B.E. Computer Science
+          │
+          ▼
+   ☕ Java · OOP · SQL
+          │
+          ▼
+   🧠 Data Structures
+          │
+          ▼
+   💼 Internships
+   ├── Crescent Infotech
+   └── Skein Techpro
+          │
+          ▼
+   🏥 MedVault
+   Online Medical Platform
+          │
+          ▼
+   💰 Loan Utilization Tracker
+   Spring Boot · MySQL
+          │
+          ▼
+   🤖 AI & Python Projects
+          │
+          ▼
+   ⚔️ DSA + Aptitude
+          │
+          ▼
+   🎯 Placement Preparation
+          │
+          ▼
+   🚀 2027
+   Software Engineer
+```
 
 ---
 
-## ⚙️ Tech Stack
+## 👨‍💻 About Me
+
+I'm a **Computer Science undergraduate** at **V S B Engineering College**, focused on Java backend and full-stack development.
+
+I enjoy building applications that solve practical problems and continuously improving my skills in **DSA, backend development, databases, and emerging AI technologies**.
+
+> **Build something useful. Learn something new. Repeat.**
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,js" />
 
-### Frontend
+<br><br>
+
+### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
 
-### Backend & Database
+<br><br>
+
+### ⚙️ Backend & Database
 
 <img src="https://skillicons.dev/icons?i=spring,mysql" />
 
-### Tools
+<br><br>
+
+### 🔧 Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
@@ -52,108 +105,105 @@ I build backend systems with **Java and Spring Boot**, with experience across **
 
 ---
 
-## 🚀 Activity Log
+## 🚀 Featured Projects
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│                    DEVELOPER JOURNEY                     │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  2023  BOOT      B.E. Computer Science Engineering      │
-│                  V S B Engineering College               │
-│                                                          │
-│  2023  LEARN     Java · OOP · SQL · Data Structures    │
-│                                                          │
-│  2025  INTERN    Crescent Infotech                      │
-│                  Web Development — Java                 │
-│                                                          │
-│  2025  INTERN    Skein Techpro                          │
-│                  Data Analysis                           │
-│                                                          │
-│  2025  BUILD     MedVault                               │
-│                  Online Medical Appointment Platform    │
-│                                                          │
-│  2025  BUILD     Loan Utilization Tracker               │
-│                  Spring Boot · MySQL                     │
-│                                                          │
-│  2026  RUNNING   DSA Practice                           │
-│                  GFG · NeetCode · HackerEarth            │
-│                                                          │
-│  2026  RUNNING   Aptitude · Reasoning · GD / JAM       │
-│                                                          │
-│  2027  TARGET    Software Engineer                      │
-│                  Product-driven team                    │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
 
----
-
-## 💻 Featured Projects
+<td width="50%">
 
 ### 🏥 MedVault
 
 **Online Medical Appointment Platform**
 
-A healthcare platform focused on appointment management and secure patient data handling.
+A healthcare platform built for managing appointments and patient-related information.
 
 **Highlights**
 
-* 🔐 Secure authentication
-* 👤 Patient management
-* 📋 Patient records
-* 💊 Prescription storage
-* 🗄️ MySQL database
+🔐 Secure authentication
+👤 Patient management
+📋 Medical records
+💊 Prescription storage
+🗄️ MySQL database
 
-`Java` `Spring Boot` `MySQL` `HTML` `CSS` `JavaScript`
+**Stack**
 
----
+`Java` `Spring Boot` `MySQL`
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width="50%">
 
 ### 💰 Loan Utilization Tracker
 
-**Loan Monitoring & Utilization System**
+**Loan Monitoring System**
 
-Tracks disbursed loan amounts against actual usage while maintaining repayment status and utilization history.
+Tracks disbursed loan amounts against actual usage with repayment and utilization history.
+
+**Highlights**
+
+📊 Loan tracking
+💰 Utilization monitoring
+📋 Repayment status
+🗂️ History management
+
+**Stack**
 
 `Java` `Spring Boot` `MySQL`
 
-🔗 **[View Source Code →](https://github.com/kavini-19/Loan-utilization-tracking)**
+<br>
+
+<a href="https://github.com/kavini-19/Loan-utilization-tracking">
+
+🔗 **View Repository →**
+
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 💼 Work Log
+## 💼 Experience
 
-### Crescent Infotech
+### 🏢 Crescent Infotech
 
 **Web Development Intern — Java**
 
 Contributed to web application development using Java while applying programming and debugging skills in a live project environment.
 
-### Skein Techpro
+### 📊 Skein Techpro
 
 **Data Analysis Intern**
 
-Worked with structured datasets to identify patterns and summarize findings supporting business insights.
+Worked with structured datasets to identify patterns and summarize findings that supported business insights.
 
 ---
 
-## 🏆 Verified Credentials
-
-| Certification                                   | Organization |
-| ----------------------------------------------- | ------------ |
-| ☕ Java Full Stack Developer                     | Infosys      |
-| 🤖 Generative AI Fluency                        | NASSCOM      |
-| 🌐 Introduction to IoT & Digital Transformation | Cisco        |
-
----
-
-## 📊 GitHub Metrics
+## 🏆 Certifications
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kavini-19&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
+| 🏅 Certification                                | 🏢 Organization |
+| :---------------------------------------------- | :-------------: |
+| ☕ Java Full Stack Developer                     |   **Infosys**   |
+| 🤖 Generative AI Fluency                        |   **NASSCOM**   |
+| 🌐 Introduction to IoT & Digital Transformation |    **Cisco**    |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavini-19&layout=compact&hide_border=true&theme=transparent" height="165"/>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kavini-19&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavini-19&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
 
 </div>
 
@@ -161,50 +211,79 @@ Worked with structured datasets to identify patterns and summarize findings supp
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kavini-19&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=kavini-19&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavini-19&bg_color=ffffff00&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavini-19&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
 ---
 
-## 🟢 System Status
+## 🎯 Current Focus
+
+<div align="center">
+
+`☕ Java`   
+`⚙️ Spring Boot`   
+`🧠 DSA`   
+`🗄️ MySQL`   
+`⚛️ React`   
+`🤖 AI`
+
+</div>
 
 ```text
-╭──────────────────────────────────────────────────────╮
-│                    SYSTEM STATUS                     │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  AVAILABILITY ............ OPEN                      │
-│  PRIMARY STACK ........... JAVA / SPRING BOOT        │
-│  DATABASE ................ MYSQL                     │
-│  CURRENT MODE ............ LEARNING + BUILDING       │
-│  NEXT MILESTONE .......... PLACEMENTS 2027           │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
+┌────────────────────────────────────────────────────────┐
+│                  CURRENT MISSION                       │
+├────────────────────────────────────────────────────────┤
+│                                                        │
+│  ✓ Strengthen Java & DSA                               │
+│  ✓ Build real-world applications                      │
+│  ✓ Improve problem-solving skills                     │
+│  ✓ Explore AI integration                              │
+│  → Prepare for Software Engineering roles             │
+│                                                        │
+└────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🌱 What's Next?
+
+```text
+2026 ────────────────► 2027
+
+   DSA
+    │
+    ├──► Aptitude
+    │
+    ├──► Technical Preparation
+    │
+    ├──► Full-Stack Projects
+    │
+    ├──► AI Integration
+    │
+    └──► 🎯 Software Engineer
 ```
 
 ---
 
 <div align="center">
 
-### 🌱 Currently Building
+### 💙 Thanks for visiting my profile!
 
-**Placement Preparation Platform**
-
-*A step closer every day.*
+**Let's connect, collaborate and build something meaningful.**
 
 <br>
 
-⭐ **If you find my projects useful, consider starring them!**
+<img src="https://komarev.com/ghpvc/?username=kavini-19&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 
 </div>
